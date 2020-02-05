@@ -20,4 +20,8 @@ Le correctifs sont visibles dans les class:<br>
 
 1. FakeApiService<br>
 2. UserRepository<br>
-*remplacer les TODO*
+*remplacer les TODO* <br><br>
+
+Ensuite j'ai branché mon device (car la VM ne fonctionne pas sous W10 avec AMD mais pas d'inquiétude pour ce qui on un processeur Intel), là on peux supprimé un utilisateur et l'ajout fonctionne très bien en crée un nouvel utilisateur random.<br>
+
+
